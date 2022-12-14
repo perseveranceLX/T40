@@ -1,5 +1,5 @@
 # T40
-40 Real-world Underwater Images From The Internet Which Is Tough To Enhance
+40 Real-world Underwater Images from the Internet Which is Tough to Enhance
 
 *This database is publicly available. It is free for professors and researcher scientists affiliated to a University. 
 
